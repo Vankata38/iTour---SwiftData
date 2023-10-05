@@ -11,6 +11,8 @@
 		02C9DF202AC9F8D700CB8133 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9DF1F2AC9F8D700CB8133 /* ContentView.swift */; };
 		02C9DF222AC9F8D900CB8133 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02C9DF212AC9F8D900CB8133 /* Assets.xcassets */; };
 		02C9DF252AC9F8D900CB8133 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02C9DF242AC9F8D900CB8133 /* Preview Assets.xcassets */; };
+		02C9DF2C2AC9F94100CB8133 /* Destination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9DF2B2AC9F94100CB8133 /* Destination.swift */; };
+		02C9DF2E2AC9FD7C00CB8133 /* EditDestinationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9DF2D2AC9FD7C00CB8133 /* EditDestinationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		02C9DF1F2AC9F8D700CB8133 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		02C9DF212AC9F8D900CB8133 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02C9DF242AC9F8D900CB8133 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		02C9DF2B2AC9F94100CB8133 /* Destination.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Destination.swift; sourceTree = "<group>"; };
+		02C9DF2D2AC9FD7C00CB8133 /* EditDestinationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditDestinationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				02C9DF1D2AC9F8D700CB8133 /* iTourApp.swift */,
 				02C9DF1F2AC9F8D700CB8133 /* ContentView.swift */,
+				02C9DF2D2AC9FD7C00CB8133 /* EditDestinationView.swift */,
+				02C9DF2B2AC9F94100CB8133 /* Destination.swift */,
 				02C9DF212AC9F8D900CB8133 /* Assets.xcassets */,
 				02C9DF232AC9F8D900CB8133 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				02C9DF202AC9F8D700CB8133 /* ContentView.swift in Sources */,
 				02C9DF1E2AC9F8D700CB8133 /* iTourApp.swift in Sources */,
+				02C9DF2C2AC9F94100CB8133 /* Destination.swift in Sources */,
+				02C9DF2E2AC9FD7C00CB8133 /* EditDestinationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
