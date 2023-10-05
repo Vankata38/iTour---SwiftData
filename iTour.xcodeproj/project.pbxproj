@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		025864C92ACF43AE00098429 /* DestinationListingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025864C82ACF43AE00098429 /* DestinationListingView.swift */; };
+		025864CB2ACF483F00098429 /* Sight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025864CA2ACF483F00098429 /* Sight.swift */; };
 		02C9DF1E2AC9F8D700CB8133 /* iTourApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9DF1D2AC9F8D700CB8133 /* iTourApp.swift */; };
 		02C9DF202AC9F8D700CB8133 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C9DF1F2AC9F8D700CB8133 /* ContentView.swift */; };
 		02C9DF222AC9F8D900CB8133 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02C9DF212AC9F8D900CB8133 /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		025864C82ACF43AE00098429 /* DestinationListingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationListingView.swift; sourceTree = "<group>"; };
+		025864CA2ACF483F00098429 /* Sight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sight.swift; sourceTree = "<group>"; };
 		02C9DF1A2AC9F8D700CB8133 /* iTour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iTour.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		02C9DF1D2AC9F8D700CB8133 /* iTourApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTourApp.swift; sourceTree = "<group>"; };
 		02C9DF1F2AC9F8D700CB8133 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,8 +61,10 @@
 			children = (
 				02C9DF1D2AC9F8D700CB8133 /* iTourApp.swift */,
 				02C9DF1F2AC9F8D700CB8133 /* ContentView.swift */,
+				025864C82ACF43AE00098429 /* DestinationListingView.swift */,
 				02C9DF2D2AC9FD7C00CB8133 /* EditDestinationView.swift */,
 				02C9DF2B2AC9F94100CB8133 /* Destination.swift */,
+				025864CA2ACF483F00098429 /* Sight.swift */,
 				02C9DF212AC9F8D900CB8133 /* Assets.xcassets */,
 				02C9DF232AC9F8D900CB8133 /* Preview Content */,
 			);
@@ -146,7 +152,9 @@
 				02C9DF202AC9F8D700CB8133 /* ContentView.swift in Sources */,
 				02C9DF1E2AC9F8D700CB8133 /* iTourApp.swift in Sources */,
 				02C9DF2C2AC9F94100CB8133 /* Destination.swift in Sources */,
+				025864CB2ACF483F00098429 /* Sight.swift in Sources */,
 				02C9DF2E2AC9FD7C00CB8133 /* EditDestinationView.swift in Sources */,
+				025864C92ACF43AE00098429 /* DestinationListingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
